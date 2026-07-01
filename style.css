@@ -1,5 +1,5 @@
 * {
-    margin: 0.1;
+    margin: 0;
     padding: 0;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .cabecalho-link {
-    color: rgb(4, 0, 255);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
