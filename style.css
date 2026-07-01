@@ -11,14 +11,14 @@
     background-color: red;
 }
 
-.cabecalho-link {
-    color: rgb(4, 0, 255);
-    text-decoration: none;
-}
-
 .cartao {
     width: 260px;
     height: 200px;
+}
+
+.cabecalho-link {
+    color: rgb(4, 0, 255);
+    text-decoration: none;
 }
 
 .cartao-frente, .cartao-verso {
